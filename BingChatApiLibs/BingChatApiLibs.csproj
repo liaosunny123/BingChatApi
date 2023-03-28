@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Authors>EpicMo</Authors>
+        <PackageProjectUrl>https://github.com/liaosunny123/BingChatApi</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/liaosunny123/BingChatApi</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/liaosunny123/BingChatApi</RepositoryUrl>
+        <PackageTags>BingChat</PackageTags>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="RestSharp" Version="109.0.1" />
+    </ItemGroup>
+
+</Project>
