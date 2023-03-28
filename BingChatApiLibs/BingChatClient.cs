@@ -8,6 +8,7 @@ using RestSharp;
 
 namespace BingChatApiLibs;
 
+//Some methods are modified from Mirror.ChatGpt NuGet
 public class BingChatClient
 {
     private readonly BingChatSettings _chatSettings;

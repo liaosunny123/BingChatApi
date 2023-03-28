@@ -2,6 +2,7 @@
 
 namespace BingChatApiLibs.Models;
 
+//Some codes are modified from Mirror.ChatGpt NuGet
 internal record NetworkFixedResponse
 {
     [JsonPropertyName("type")]
