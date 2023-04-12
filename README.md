@@ -1,4 +1,8 @@
 # BingChatApi
+
+[![NuGet](https://img.shields.io/nuget/vpre/BingChatApiLibs?style=flat&label=NuGet&color=9866ca)](https://www.nuget.org/packages/BingChatApiLibs/)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/BingChatApiLibs?style=flat&label=Downloads&color=42a5f5)](https://www.nuget.org/packages/BingChatApiLibs/) 
+
 The UNOFFICIAL NuGet for Bing Chat Api.
 
 Some codes are modified from [Mirror.ChatGpt](https://github.com/yinanrong/Mirror.ChatGpt). This repo fixed wrong protocols and add more fuctions.
